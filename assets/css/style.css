@@ -2318,6 +2318,9 @@ section {
   padding: 0;
   font-size: 15px;
 }
+.portfolio-details a {
+ color: #debf7f;
+}
 .portfolio-details .portfolio-info ul li + li {
   margin-top: 10px;
 }
